@@ -1,5 +1,5 @@
 This is the description of the user module
-1. Database name is master_db, in folder db it has 4 files:
+1. Database name is master_db, in folder readme-process/db it has 4 files:
 - master_db (sql) is sql format
 - master_db.psql is psql format for restore db to pgAdmin
 - ERD & ERD.png is the db diagram
