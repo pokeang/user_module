@@ -1,5 +1,3 @@
-# user_module
-Simple user module with spring boot + thymeleaf + postgresql
 This is the description of the user module
 1. Database name is master_db, in folder db it has 4 files:
 - master_db (sql) is sql format
